@@ -1,0 +1,89 @@
+.form-main {
+  text-align: center;
+}
+
+.form-main input {
+  width: 50%;
+  background: #fff;
+  border: none;
+  height: 40px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+.form-main button {
+  width: 51%;
+  padding: 12px 40px;
+  color: #fff;
+  background: #9e9eff;
+  border: none;
+  border-radius: 4px;
+}
+.form-main {
+  padding: 60px;
+}
+.form-main {
+  background: #f1f1f1;
+}
+.deposit {
+  background: rgb(170, 192, 255);
+  padding: 25px;
+  border-radius: 8px;
+}
+.deposit h3,
+.deposit h2,
+.withdraw h3,
+.withdraw h2,
+.blance h3,
+.blance h2 {
+  color: #fff;
+}
+
+.withdraw {
+  background: rgb(255, 194, 183);
+  padding: 25px;
+  border-radius: 8px;
+}
+
+.blance {
+  background: rgb(154, 235, 255);
+  padding: 25px;
+  border-radius: 8px;
+}
+
+.deposit-part {
+  background: rgb(183, 255, 245);
+  padding: 30px;
+}
+.deposit-part input {
+  height: 35px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  width: 60%;
+}
+.deposit-part button {
+  background: green;
+  color: #fff;
+  border-radius: 4px;
+  border: none;
+  padding: 12px 42px;
+}
+
+.withdraw-part {
+  background: rgb(109, 226, 255);
+  padding: 30px;
+}
+.withdraw-part input {
+  height: 35px;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 15px;
+  width: 60%;
+}
+.withdraw-part button {
+  background: green;
+  color: #fff;
+  border-radius: 4px;
+  border: none;
+  padding: 12px 42px;
+}
